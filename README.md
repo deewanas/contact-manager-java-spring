@@ -1,5 +1,5 @@
 # java-spring-contact-manager
-Simple java (Spring) web project.
+Simple java (spring-mvc) web project. Model is a contact with fields: id, name, phone number, email. Controller connects to mysql database via jdbc.
 
 Contact manager displays contact list, displays information about choosen contact. Also contact manager creates, updates and removes contacts.
 
